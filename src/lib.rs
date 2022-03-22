@@ -1,4 +1,7 @@
 pub mod poprf;
+
+pub mod traits;
+
 mod hash_to_field;
 use thiserror::Error;
 
